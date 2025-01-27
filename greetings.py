@@ -25,3 +25,7 @@ issue_date = input("Дата истечения заметки: ")
 
 created_date2 =input("21.01")
 issue_date2 = input("28.02")
+
+
+content2 = "Основные темы", "Персонажи", "Рекомендации для чтения"
+input(content2)
